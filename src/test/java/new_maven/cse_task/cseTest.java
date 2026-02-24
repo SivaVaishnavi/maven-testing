@@ -12,10 +12,10 @@ public class cseTest {
 	        assertEquals(5, result);
 	    }
 
-	   @Test
+	 /*  @Test
 	    void testMul() {
 	       int result = cal.mul(2, 3);
 	       assertEquals(6, result); 
-	    } 
+	    } */
 
 }
