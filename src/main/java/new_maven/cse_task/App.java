@@ -5,6 +5,7 @@ package new_maven.cse_task;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+    	cse_rocks demo = new cse_rocks();
+        System.out.println(demo.add(2, 3));
     }
 }
